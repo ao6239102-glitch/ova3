@@ -1,0 +1,2637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202611190650145PS0F3</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261119065014TX7EGA</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>OVA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1795088008976</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>fa80c740-142a-41ae-8821-13825ef330b3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PORTADA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PORTADA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PORTADA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>fa80c740-142a-41ae-8821-13825ef330b3</odePageId>
+      <odeBlockId>block-mwngvlgl-plccdzdy2</odeBlockId>
+      <blockName>PORTADA</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>fa80c740-142a-41ae-8821-13825ef330b3</odePageId>
+          <odeBlockId>block-mwngvlgl-plccdzdy2</odeBlockId>
+          <odeIdeviceId>idevice-1795087714912-v0140onz7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p style="text-align: center;"><img src="{{context_path}}/content/resources/ninos-jugando.jpg" title="juego" width="626" height="452" alt="juego" /> </p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;">DOCUMENTO DE TRABAJO ESTRUCTURA DE OVA UNIDAD 3</p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;">Diana Rocio Obando Jojoa – Cod. 099250222026 </p>
+<p style="text-align: center;">Marinela Villarraga Villarraga Cod. 099250362026<br /> <br /> <br /> <br />MARTHA LUCIA GARCIA NARANJO<br />Docente<br /> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><br /> <br />UNIVERSIDAD DEL TOLIMA ESPECIALIZACIÓN VIRTUAL EN AMBIENTES Y RECURSOS DIGITALES PARA LA EDUCACIÓN</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><img src="{{context_path}}/content/resources/JUEGOVIRTUAl.jpg" title="JUEGO" width="1289" height="754" alt="JUEGO" /></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795087714912-v0140onz7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/ninos-jugando.jpg\" title=\"juego\" width=\"626\" height=\"452\" alt=\"juego\" /> </p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\">DOCUMENTO DE TRABAJO ESTRUCTURA DE OVA UNIDAD 3</p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\">Diana Rocio Obando Jojoa – Cod. 099250222026 </p>\n<p style=\"text-align: center;\">Marinela Villarraga Villarraga Cod. 099250362026<br /> <br /> <br /> <br />MARTHA LUCIA GARCIA NARANJO<br />Docente<br /> </p>\n<p style=\"text-align: center;\"> </p>\n<p style=\"text-align: center;\"><br /> <br />UNIVERSIDAD DEL TOLIMA ESPECIALIZACIÓN VIRTUAL EN AMBIENTES Y RECURSOS DIGITALES PARA LA EDUCACIÓN</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><img src=\"{{context_path}}/content/resources/JUEGOVIRTUAl.jpg\" title=\"JUEGO\" width=\"1289\" height=\"754\" alt=\"JUEGO\" /></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p><img src=\"{{context_path}}/content/resources/JUEGOVIRTUAl.jpg\" title=\"JUEGO\" width=\"1289\" height=\"754\" alt=\"JUEGO\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm7zujr-4xaai6q1m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1.	METADATO </pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.	METADATO </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.	METADATO </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm7zujr-4xaai6q1m</odePageId>
+      <odeBlockId>block-mwm800i0-pbs0yps2n</odeBlockId>
+      <blockName>METADATO</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm7zujr-4xaai6q1m</odePageId>
+          <odeBlockId>block-mwm800i0-pbs0yps2n</odeBlockId>
+          <odeIdeviceId>idevice-1795012338310-0itghfd3j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p><img src="{{context_path}}/content/resources/metadato.jpg" title="METADATA" width="563" height="297" alt="METADATA" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong></strong><br /></p>
+<p><strong>Título</strong></p>
+<p>EL JUEGO VIRTUAL COMO ESTRATEGIA PEDAGÓGICA PARA FORTALECER LAS HABILIDADES DIGITALES EN ESTUDIANTES DEL GRADO 501 DE LA INSTITUCIÓN EDUCATIVA DEPARTAMENTAL GENERAL SANTANDER DEL MUNICIPIO DE SIBATÉ - CUNDINAMARCA ÁREA DE SISTEMAS</p>
+<p>Descripción</p>
+<p>Esta propuesta educativa surge de la importancia de incorporar estrategias innovadoras que despierten el interés, la motivación y la participación activa de los estudiantes en los procesos de enseñanza y aprendizaje, aprovechando las posibilidades que ofrecen las tecnologías digitales en el contexto educativo. </p>
+<p>En este sentido, el juego virtual se convierte en una herramienta pedagógica que facilita la adquisición de conocimientos, promueve la exploración, estimula la creatividad y favorece el desarrollo de habilidades y competencias necesarias para que los estudiantes aprendan  de los  entornos digitales.</p>
+<p>El OVA propone experiencias de aprendizaje interactivas, dinámicas y significativas que integran actividades lúdicas, juegos educativos, retos digitales, cuestionarios, ejercicios prácticos y recursos multimedia. A través de estas actividades, los estudiantes tendrán la oportunidad de reconocer los componentes del computador, explorar herramientas tecnológicas, utilizar programas y aplicaciones digitales, desarrollar habilidades de búsqueda y selección de información, fortalecer el pensamiento lógico y aprender sobre el uso adecuado, seguro y responsable de los recursos tecnológicos.</p>
+<p>De igual manera el OVA busca fomentar el aprendizaje autónomo, el trabajo colaborativo, la resolución de problemas y la participación activa de los estudiantes, respetando sus diferentes ritmos y estilos de aprendizaje mediante la realización de actividades interactivas, los niños podrán poner en práctica sus conocimientos, recibir retroalimentación sobre sus avances y reconocer sus logros durante el proceso formativo.</p>
+<p>De esta manera, el OVA pretende transformar el aprendizaje del área de Sistemas en una experiencia educativa motivadora y enriquecedora, en la que el juego virtual no sea solamente un medio de entretenimiento, sino una estrategia pedagógica que contribuya al desarrollo de competencias tecnológicas y digitales, fortaleciendo los aprendizajes de los estudiantes  capaces de  utilizar la tecnología de manera creativa, crítica y responsable en su vida escolar y cotidiana.</p>
+<p>Idioma Español. </p>
+<p>Palabras clave: Objeto Virtual de Aprendizaje, juego, pedagógico, habilidades digitales, educación primaria, tecnología, competencias digitales, aprendizaje interactivo, estudiantes.</p>
+<p> Autoría    Diana Roció Obando Jojoa – Cod. 099250222026 </p>
+<p>Marinela Villarraga Villarraga Cod. 099250362026</p>
+<p> Afiliación institucional Universidad del Tolima- Ibagué</p>
+<p>Institución Educativa General Santander, Municipio de Sibaté, Cundinamarca. </p>
+<p>Fecha de creación Octubre año 2026</p>
+<p>Versión 1.0</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p><img src="{{context_path}}/content/resources/diagramaova.jpeg" title="DIAGRAMAOVA" width="882" height="588" alt="DIAGRAMAOVA" style="display: block; margin-left: auto; margin-right: auto;" /></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795012338310-0itghfd3j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p><img src=\"{{context_path}}/content/resources/metadato.jpg\" title=\"METADATA\" width=\"563\" height=\"297\" alt=\"METADATA\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><strong></strong><br /></p>\n<p><strong>Título</strong></p>\n<p>EL JUEGO VIRTUAL COMO ESTRATEGIA PEDAGÓGICA PARA FORTALECER LAS HABILIDADES DIGITALES EN ESTUDIANTES DEL GRADO 501 DE LA INSTITUCIÓN EDUCATIVA DEPARTAMENTAL GENERAL SANTANDER DEL MUNICIPIO DE SIBATÉ - CUNDINAMARCA ÁREA DE SISTEMAS</p>\n<p>Descripción</p>\n<p>Esta propuesta educativa surge de la importancia de incorporar estrategias innovadoras que despierten el interés, la motivación y la participación activa de los estudiantes en los procesos de enseñanza y aprendizaje, aprovechando las posibilidades que ofrecen las tecnologías digitales en el contexto educativo. </p>\n<p>En este sentido, el juego virtual se convierte en una herramienta pedagógica que facilita la adquisición de conocimientos, promueve la exploración, estimula la creatividad y favorece el desarrollo de habilidades y competencias necesarias para que los estudiantes aprendan  de los  entornos digitales.</p>\n<p>El OVA propone experiencias de aprendizaje interactivas, dinámicas y significativas que integran actividades lúdicas, juegos educativos, retos digitales, cuestionarios, ejercicios prácticos y recursos multimedia. A través de estas actividades, los estudiantes tendrán la oportunidad de reconocer los componentes del computador, explorar herramientas tecnológicas, utilizar programas y aplicaciones digitales, desarrollar habilidades de búsqueda y selección de información, fortalecer el pensamiento lógico y aprender sobre el uso adecuado, seguro y responsable de los recursos tecnológicos.</p>\n<p>De igual manera el OVA busca fomentar el aprendizaje autónomo, el trabajo colaborativo, la resolución de problemas y la participación activa de los estudiantes, respetando sus diferentes ritmos y estilos de aprendizaje mediante la realización de actividades interactivas, los niños podrán poner en práctica sus conocimientos, recibir retroalimentación sobre sus avances y reconocer sus logros durante el proceso formativo.</p>\n<p>De esta manera, el OVA pretende transformar el aprendizaje del área de Sistemas en una experiencia educativa motivadora y enriquecedora, en la que el juego virtual no sea solamente un medio de entretenimiento, sino una estrategia pedagógica que contribuya al desarrollo de competencias tecnológicas y digitales, fortaleciendo los aprendizajes de los estudiantes  capaces de  utilizar la tecnología de manera creativa, crítica y responsable en su vida escolar y cotidiana.</p>\n<p>Idioma Español. </p>\n<p>Palabras clave: Objeto Virtual de Aprendizaje, juego, pedagógico, habilidades digitales, educación primaria, tecnología, competencias digitales, aprendizaje interactivo, estudiantes.</p>\n<p> Autoría    Diana Roció Obando Jojoa – Cod. 099250222026 </p>\n<p>Marinela Villarraga Villarraga Cod. 099250362026</p>\n<p> Afiliación institucional Universidad del Tolima- Ibagué</p>\n<p>Institución Educativa General Santander, Municipio de Sibaté, Cundinamarca. </p>\n<p>Fecha de creación Octubre año 2026</p>\n<p>Versión 1.0</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p><img src=\"{{context_path}}/content/resources/diagramaova.jpeg\" title=\"DIAGRAMAOVA\" width=\"882\" height=\"588\" alt=\"DIAGRAMAOVA\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p><img src=\"{{context_path}}/content/resources/diagramaova.jpeg\" title=\"DIAGRAMAOVA\" width=\"882\" height=\"588\" alt=\"DIAGRAMAOVA\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm81rmv-82dvccikf</odePageId>
+  <odeParentPageId>page-mwm7zujr-4xaai6q1m</odeParentPageId>
+  <pageName>DETALLES TECNICOS</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DETALLES TECNICOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DETALLES TECNICOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm81rmv-82dvccikf</odePageId>
+      <odeBlockId>block-mwm81t6e-vui634xl3</odeBlockId>
+      <blockName>DETALLES TECNICOS</blockName>
+      <iconName>mi-computer_sound</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm81rmv-82dvccikf</odePageId>
+          <odeBlockId>block-mwm81t6e-vui634xl3</odeBlockId>
+          <odeIdeviceId>idevice-1795012422133-0whfjefnj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p><strong><img src="{{context_path}}/content/resources/hardware-software.jpg" title="hardware" width="800" height="328" alt="hardware" style="display: block; margin-left: auto; margin-right: auto;" /></strong></p>
+<p><strong>REQUISITOS DE HARDWARE </strong></p>
+<p>Para el funcionamiento del Objeto Virtual de Aprendizaje se requiere un equipo de cómputo básico que permita visualizar los contenidos digitales y desarrollar las actividades interactivas propuestas. Se recomienda contar con:</p>
+<p>●     Computador de escritorio o portátil, tablet,celular.</p>
+<p>●     Memoria RAM de 4 GB como mínimo.</p>
+<p>●     Pantalla, teclado y mouse.</p>
+<p>●     Parlantes o audífonos para reproducir contenidos multimedia.</p>
+<p><strong>REQUISITOS DE SOFTWARE</strong></p>
+<p>Para acceder y utilizar el OVA se requieren los siguientes programas y herramientas:</p>
+<p>●     En cuanto al software utilizaremos Windows básico,  Sistema operativo Windows 10 o superior.</p>
+<p>●     Navegador Google Chrome actualizado, para visualizar y ejecutar los contenidos desarrollados en HTML.</p>
+<p>●     Lector de archivos PDF para consultar documentos complementarios.</p>
+<p>●     Reproductor multimedia para visualizar videos y escuchar audios.</p>
+<p>●     Acceso a juegos y actividades educativas digitales, como Scrabble, Word Wall, Educaplay y Scratch</p>
+<p><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p style="text-align: justify;"><strong>Formato de archivo:</strong> HTML lo que permitirá integrar textos, imágenes, videos, animaciones, juegos y actividades interactivas en un entorno digital organizado y de fácil navegación. Este formato facilitará el acceso a los contenidos mediante un navegador web, especialmente Google Chrome. </p>
+<p style="text-align: justify;"><strong>Requisitos para su instalación: </strong> El OVA no requiere la instalación de programas especializados. Para su funcionamiento, el estudiante deberá contar con un computador que tenga instalado el navegador Google Chrome actualizado y abrir el archivo HTML correspondiente y  disponer de conexión a internet. </p>
+<p style="text-align: justify;"><strong>Tamaño:  </strong>15 Megas dependiendo de la cantidad de imágenes, videos, animaciones y actividades interactivas que se incorporen durante su elaboración. </p>
+<p style="text-align: justify;"><strong>Licenciamiento: </strong> Libre por ser Educativo  las autoras que la elaboran en este caso las estudiantes de la especialización Universidad del Tolima.</p>
+<p style="text-align: justify;">En conclusión el presente OVA será elaborado por las autoras con fines educativos y académicos, como recurso pedagógico orientado al fortalecimiento de las habilidades digitales de los estudiantes del grado quinto de la Institución Educativa General Santander de Sibaté, Cundinamarca. </p>
+<p style="text-align: justify;">Los contenidos, actividades y materiales originales serán de autoría de las creadoras del recurso. Para aquellos elementos externos, como imágenes, videos, sonidos o recursos educativos, se respetarán los derechos de autor y las condiciones de uso establecidas por sus respectivos creadores. </p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795012422133-0whfjefnj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p><strong><img src=\"{{context_path}}/content/resources/hardware-software.jpg\" title=\"hardware\" width=\"800\" height=\"328\" alt=\"hardware\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong></p>\n<p><strong>REQUISITOS DE HARDWARE </strong></p>\n<p>Para el funcionamiento del Objeto Virtual de Aprendizaje se requiere un equipo de cómputo básico que permita visualizar los contenidos digitales y desarrollar las actividades interactivas propuestas. Se recomienda contar con:</p>\n<p>●     Computador de escritorio o portátil, tablet,celular.</p>\n<p>●     Memoria RAM de 4 GB como mínimo.</p>\n<p>●     Pantalla, teclado y mouse.</p>\n<p>●     Parlantes o audífonos para reproducir contenidos multimedia.</p>\n<p><strong>REQUISITOS DE SOFTWARE</strong></p>\n<p>Para acceder y utilizar el OVA se requieren los siguientes programas y herramientas:</p>\n<p>●     En cuanto al software utilizaremos Windows básico,  Sistema operativo Windows 10 o superior.</p>\n<p>●     Navegador Google Chrome actualizado, para visualizar y ejecutar los contenidos desarrollados en HTML.</p>\n<p>●     Lector de archivos PDF para consultar documentos complementarios.</p>\n<p>●     Reproductor multimedia para visualizar videos y escuchar audios.</p>\n<p>●     Acceso a juegos y actividades educativas digitales, como Scrabble, Word Wall, Educaplay y Scratch</p>\n<p><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p style=\"text-align: justify;\"><strong>Formato de archivo:</strong> HTML lo que permitirá integrar textos, imágenes, videos, animaciones, juegos y actividades interactivas en un entorno digital organizado y de fácil navegación. Este formato facilitará el acceso a los contenidos mediante un navegador web, especialmente Google Chrome. </p>\n<p style=\"text-align: justify;\"><strong>Requisitos para su instalación: </strong> El OVA no requiere la instalación de programas especializados. Para su funcionamiento, el estudiante deberá contar con un computador que tenga instalado el navegador Google Chrome actualizado y abrir el archivo HTML correspondiente y  disponer de conexión a internet. </p>\n<p style=\"text-align: justify;\"><strong>Tamaño:  </strong>15 Megas dependiendo de la cantidad de imágenes, videos, animaciones y actividades interactivas que se incorporen durante su elaboración. </p>\n<p style=\"text-align: justify;\"><strong>Licenciamiento: </strong> Libre por ser Educativo  las autoras que la elaboran en este caso las estudiantes de la especialización Universidad del Tolima.</p>\n<p style=\"text-align: justify;\">En conclusión el presente OVA será elaborado por las autoras con fines educativos y académicos, como recurso pedagógico orientado al fortalecimiento de las habilidades digitales de los estudiantes del grado quinto de la Institución Educativa General Santander de Sibaté, Cundinamarca. </p>\n<p style=\"text-align: justify;\">Los contenidos, actividades y materiales originales serán de autoría de las creadoras del recurso. Para aquellos elementos externos, como imágenes, videos, sonidos o recursos educativos, se respetarán los derechos de autor y las condiciones de uso establecidas por sus respectivos creadores. </p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p style=\"text-align: justify;\"><strong>Formato de archivo:</strong> HTML lo que permitirá integrar textos, imágenes, videos, animaciones, juegos y actividades interactivas en un entorno digital organizado y de fácil navegación. Este formato facilitará el acceso a los contenidos mediante un navegador web, especialmente Google Chrome. </p>\n<p style=\"text-align: justify;\"><strong>Requisitos para su instalación: </strong> El OVA no requiere la instalación de programas especializados. Para su funcionamiento, el estudiante deberá contar con un computador que tenga instalado el navegador Google Chrome actualizado y abrir el archivo HTML correspondiente y  disponer de conexión a internet. </p>\n<p style=\"text-align: justify;\"><strong>Tamaño:  </strong>15 Megas dependiendo de la cantidad de imágenes, videos, animaciones y actividades interactivas que se incorporen durante su elaboración. </p>\n<p style=\"text-align: justify;\"><strong>Licenciamiento: </strong> Libre por ser Educativo  las autoras que la elaboran en este caso las estudiantes de la especialización Universidad del Tolima.</p>\n<p style=\"text-align: justify;\">En conclusión el presente OVA será elaborado por las autoras con fines educativos y académicos, como recurso pedagógico orientado al fortalecimiento de las habilidades digitales de los estudiantes del grado quinto de la Institución Educativa General Santander de Sibaté, Cundinamarca. </p>\n<p style=\"text-align: justify;\">Los contenidos, actividades y materiales originales serán de autoría de las creadoras del recurso. Para aquellos elementos externos, como imágenes, videos, sonidos o recursos educativos, se respetarán los derechos de autor y las condiciones de uso establecidas por sus respectivos creadores. </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm8p7wn-e7twyxmnb</odePageId>
+  <odeParentPageId>page-mwm7zujr-4xaai6q1m</odeParentPageId>
+  <pageName>RUTA TAXONOMICA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RUTA TAXONOMICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RUTA TAXONOMICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>RUTA TAXONOMICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm8p7wn-e7twyxmnb</odePageId>
+      <odeBlockId>block-mwm8p9f3-udxjy7eb6</odeBlockId>
+      <blockName>RUTA TAXONOMICA</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm8p7wn-e7twyxmnb</odePageId>
+          <odeBlockId>block-mwm8p9f3-udxjy7eb6</odeBlockId>
+          <odeIdeviceId>idevice-1795013516270-3b2mbmoia</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p><img src="{{context_path}}/content/resources/desktop.jpg" title="RUTA TAXONOMICA" width="450" height="315" alt="RUTA TAXONOMICA" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>Ruta taxonómica del Área de conocimiento </strong></p>
+<p style="text-align: justify;">El presente OVA estará clasificada  según la Organización para la Cooperación y el Desarrollo Económicos (OCDE), puede clasificar en los siguientes campos:</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;">GRAN ÁREA: Ciencias Naturales o Ciencias Sociales</p>
+<p style="text-align: justify;">ÁREA: 1.B. Computación y Ciencias de la Información </p>
+<p style="text-align: justify;">              5. C. Ciencias  de la Educación</p>
+<p style="text-align: justify;">DISCIPLINA:1B01 Ciencias de la computación,  1B02 Ciencias de la información y bioinformática (hardware en 2,B y aspectos sociales en 5,8) ó Educación general (incluye capacitación, pedagogía)</p>
+<p><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p style="text-align: justify;">La selección de estas áreas responde a la naturaleza del proyecto, ya que el OVA integra elementos pedagógicos y tecnológicos para favorecer el desarrollo de habilidades digitales en los estudiantes. Desde las Ciencias de la Educación, se aborda el juego como estrategia didáctica que promueve la motivación, la participación y el aprendizaje significativo. Por otra parte, desde la Computación y las Ciencias de la Información, se trabajan conocimientos y habilidades relacionadas con el manejo de herramientas digitales, el reconocimiento de dispositivos tecnológicos, el pensamiento lógico y la creación de contenidos digitales.</p>
+<p style="text-align: justify;">De esta manera, el OVA articula la enseñanza y la tecnología para generar experiencias de aprendizaje interactivas, acordes con las necesidades educativas de los estudiantes de quinto grado de la Institución Educativa General Santander de Sibate Cundinamarca..</p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795013516270-3b2mbmoia","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p><img src=\"{{context_path}}/content/resources/desktop.jpg\" title=\"RUTA TAXONOMICA\" width=\"450\" height=\"315\" alt=\"RUTA TAXONOMICA\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><strong>Ruta taxonómica del Área de conocimiento </strong></p>\n<p style=\"text-align: justify;\">El presente OVA estará clasificada  según la Organización para la Cooperación y el Desarrollo Económicos (OCDE), puede clasificar en los siguientes campos:</p>\n<p style=\"text-align: justify;\"> </p>\n<p style=\"text-align: justify;\">GRAN ÁREA: Ciencias Naturales o Ciencias Sociales</p>\n<p style=\"text-align: justify;\">ÁREA: 1.B. Computación y Ciencias de la Información </p>\n<p style=\"text-align: justify;\">              5. C. Ciencias  de la Educación</p>\n<p style=\"text-align: justify;\">DISCIPLINA:1B01 Ciencias de la computación,  1B02 Ciencias de la información y bioinformática (hardware en 2,B y aspectos sociales en 5,8) ó Educación general (incluye capacitación, pedagogía)</p>\n<p><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p style=\"text-align: justify;\">La selección de estas áreas responde a la naturaleza del proyecto, ya que el OVA integra elementos pedagógicos y tecnológicos para favorecer el desarrollo de habilidades digitales en los estudiantes. Desde las Ciencias de la Educación, se aborda el juego como estrategia didáctica que promueve la motivación, la participación y el aprendizaje significativo. Por otra parte, desde la Computación y las Ciencias de la Información, se trabajan conocimientos y habilidades relacionadas con el manejo de herramientas digitales, el reconocimiento de dispositivos tecnológicos, el pensamiento lógico y la creación de contenidos digitales.</p>\n<p style=\"text-align: justify;\">De esta manera, el OVA articula la enseñanza y la tecnología para generar experiencias de aprendizaje interactivas, acordes con las necesidades educativas de los estudiantes de quinto grado de la Institución Educativa General Santander de Sibate Cundinamarca..</p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p style=\"text-align: justify;\">La selección de estas áreas responde a la naturaleza del proyecto, ya que el OVA integra elementos pedagógicos y tecnológicos para favorecer el desarrollo de habilidades digitales en los estudiantes. Desde las Ciencias de la Educación, se aborda el juego como estrategia didáctica que promueve la motivación, la participación y el aprendizaje significativo. Por otra parte, desde la Computación y las Ciencias de la Información, se trabajan conocimientos y habilidades relacionadas con el manejo de herramientas digitales, el reconocimiento de dispositivos tecnológicos, el pensamiento lógico y la creación de contenidos digitales.</p>\n<p style=\"text-align: justify;\">De esta manera, el OVA articula la enseñanza y la tecnología para generar experiencias de aprendizaje interactivas, acordes con las necesidades educativas de los estudiantes de quinto grado de la Institución Educativa General Santander de Sibate Cundinamarca..</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwnhext6-vceloxw1a</odePageId>
+  <odeParentPageId>page-mwm7zujr-4xaai6q1m</odeParentPageId>
+  <pageName>RUTA METODOLOGICA</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RUTA METODOLOGICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwnhext6-vceloxw1a</odePageId>
+      <odeBlockId>block-mwnhfud6-46gh40bgd</odeBlockId>
+      <blockName>RUTA  METODOLOGICA</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwnhext6-vceloxw1a</odePageId>
+          <odeBlockId>block-mwnhfud6-46gh40bgd</odeBlockId>
+          <odeIdeviceId>idevice-1795088659575-2v3wjwtt3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Ruta Metodológica del OVA.png" title="RUTAM" width="1536" height="1024" alt="RUTAM" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795088659575-2v3wjwtt3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Ruta Metodológica del OVA.png\" title=\"RUTAM\" width=\"1536\" height=\"1024\" alt=\"RUTAM\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm8rm3i-a7ga2gwo8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2 DISEÑO INSTRUCCIONAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2 DISEÑO INSTRUCCIONAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2 DISEÑO INSTRUCCIONAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2 DISEÑO INSTRUCCIONAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm8rm3i-a7ga2gwo8</odePageId>
+      <odeBlockId>block-mwm8rpsm-08r0yvaq0</odeBlockId>
+      <blockName>DEFINICION Y APLICACION</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm8rm3i-a7ga2gwo8</odePageId>
+          <odeBlockId>block-mwm8rpsm-08r0yvaq0</odeBlockId>
+          <odeIdeviceId>idevice-1795013630805-6hqo4g8tf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><strong><img src="{{context_path}}/content/resources/vista-lateral-ninos.avif" title="NINOSAPRENDIENDO" width="435" height="432" alt="NINOSAPRENDIENDO" style="display: block; margin-left: auto; margin-right: auto;" /></strong></p>
+<p><strong> Diseño pedagógico: propuesta formativa</strong></p>
+<p>El enfoque pedagógico del OVA es principalmente constructivista, fundamentado en los aportes de Jean Piaget biólogo, psicólogo y epistemólogo suizo,  quien plantea que los estudiantes construyen sus conocimientos a través de la exploración, la experimentación y la interacción con su entorno. Por esta razón, se proponen actividades lúdicas e interactivas que permiten a los estudiantes de grado quinto aprender mediante juegos, retos y resolución de problemas relacionados con las habilidades digitales.</p>
+<p>Esta teoría del aprendizaje fundamentado en el Psicólogo suizo Jean Piaget  permite que los estudiantes de grado quinto de la Institución Educativa General Santander del municipio de Sibaté Cundinamarca construyan conocimientos y fortalezcan sus habilidades digitales mediante actividades lúdicas e interactivas. A través de juegos, retos, ejercicios prácticos y situaciones problemáticas, los niños tendrán la oportunidad de explorar las herramientas tecnológicas, experimentar con sus funciones, descubrir nuevas posibilidades y aplicar los conocimientos adquiridos.</p>
+<p>De esta manera, el estudiante asume un papel más activo en su aprendizaje, mientras que el docente actúa como orientador y facilitador del proceso educativo. El juego se convierte en una estrategia  pedagógica que favorece la motivación, la participación y la construcción de aprendizajes significativos. </p>
+<p>De igual manera se tiene en cuenta elementos de la teoría del conductismo, en el que se incorporarán insignias y recompensas como elementos de gamificación que permitirán reconocer a cada estudiantes los avances y logros alcanzados, durante las diferentes actividades realizadas, su respectiva retroalimentación, con el propósito de motivar la participación y reforzar los aprendizajes.</p>
+<p>De esta manera, el OVA integra la teoría del aprendizaje basada en el constructivismo como enfoque principal y algunos recursos conductistas como estrategias de motivación, promoviendo un aprendizaje activo, significativo y participativo en el área de Sistemas. </p>
+<p>Se incorpora también el modelo ADDIE (análisis, diseño, desarrollo, implementación y evaluación) para orientar la construcción del OVA, y la Taxonomía de Bloom en la era digital para organizar los objetivos y actividades en los niveles de recordar, comprender, aplicar, analizar, evaluar y crear.</p>
+<p>La metodología se basa en el aprendizaje basado en juegos y la gamificación, mediante cinco módulos: exploradores del computador, detectives digitales, guardianes de internet, desafío de pensamiento lógico y creadores digitales.</p>
+<p>Para desarrollar las actividades se utilizarán herramientas como Genially, Word Wall, Educaplay, Scratch y Canva. La evaluación será diagnóstica, formativa y final, teniendo en cuenta la participación, la solución de retos y la creación de productos digitales sencillos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795013630805-6hqo4g8tf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><strong><img src=\"{{context_path}}/content/resources/vista-lateral-ninos.avif\" title=\"NINOSAPRENDIENDO\" width=\"435\" height=\"432\" alt=\"NINOSAPRENDIENDO\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong></p>\n<p><strong> Diseño pedagógico: propuesta formativa</strong></p>\n<p>El enfoque pedagógico del OVA es principalmente constructivista, fundamentado en los aportes de Jean Piaget biólogo, psicólogo y epistemólogo suizo,  quien plantea que los estudiantes construyen sus conocimientos a través de la exploración, la experimentación y la interacción con su entorno. Por esta razón, se proponen actividades lúdicas e interactivas que permiten a los estudiantes de grado quinto aprender mediante juegos, retos y resolución de problemas relacionados con las habilidades digitales.</p>\n<p>Esta teoría del aprendizaje fundamentado en el Psicólogo suizo Jean Piaget  permite que los estudiantes de grado quinto de la Institución Educativa General Santander del municipio de Sibaté Cundinamarca construyan conocimientos y fortalezcan sus habilidades digitales mediante actividades lúdicas e interactivas. A través de juegos, retos, ejercicios prácticos y situaciones problemáticas, los niños tendrán la oportunidad de explorar las herramientas tecnológicas, experimentar con sus funciones, descubrir nuevas posibilidades y aplicar los conocimientos adquiridos.</p>\n<p>De esta manera, el estudiante asume un papel más activo en su aprendizaje, mientras que el docente actúa como orientador y facilitador del proceso educativo. El juego se convierte en una estrategia  pedagógica que favorece la motivación, la participación y la construcción de aprendizajes significativos. </p>\n<p>De igual manera se tiene en cuenta elementos de la teoría del conductismo, en el que se incorporarán insignias y recompensas como elementos de gamificación que permitirán reconocer a cada estudiantes los avances y logros alcanzados, durante las diferentes actividades realizadas, su respectiva retroalimentación, con el propósito de motivar la participación y reforzar los aprendizajes.</p>\n<p>De esta manera, el OVA integra la teoría del aprendizaje basada en el constructivismo como enfoque principal y algunos recursos conductistas como estrategias de motivación, promoviendo un aprendizaje activo, significativo y participativo en el área de Sistemas. </p>\n<p>Se incorpora también el modelo ADDIE (análisis, diseño, desarrollo, implementación y evaluación) para orientar la construcción del OVA, y la Taxonomía de Bloom en la era digital para organizar los objetivos y actividades en los niveles de recordar, comprender, aplicar, analizar, evaluar y crear.</p>\n<p>La metodología se basa en el aprendizaje basado en juegos y la gamificación, mediante cinco módulos: exploradores del computador, detectives digitales, guardianes de internet, desafío de pensamiento lógico y creadores digitales.</p>\n<p>Para desarrollar las actividades se utilizarán herramientas como Genially, Word Wall, Educaplay, Scratch y Canva. La evaluación será diagnóstica, formativa y final, teniendo en cuenta la participación, la solución de retos y la creación de productos digitales sencillos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm8ugjx-mojflp0m2</odePageId>
+  <odeParentPageId>page-mwm8rm3i-a7ga2gwo8</odeParentPageId>
+  <pageName>PREGUNTAS ORIENTADORAS</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PREGUNTAS ORIENTADORAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PREGUNTAS ORIENTADORAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm8ugjx-mojflp0m2</odePageId>
+      <odeBlockId>block-mwm8ujzp-a22st88y1</odeBlockId>
+      <blockName>PREGUNTAS</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm8ugjx-mojflp0m2</odePageId>
+          <odeBlockId>block-mwm8ujzp-a22st88y1</odeBlockId>
+          <odeIdeviceId>idevice-1795013763252-2jpydz30w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/PARTESPC.jpeg" title="PARTESPC" width="554" height="554" alt="PARTESPC" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>●     ¿Qué partes conforman un computador y cuál es la función de cada una?</p>
+<p>●     ¿Cómo podemos aprovechar las herramientas digitales para aprender y desarrollar nuestras actividades escolares?</p>
+<p>●     ¿Cómo podemos proteger nuestra información y navegar de manera segura en internet?</p>
+<p>●     ¿De qué manera podemos utilizar el pensamiento lógico para resolver retos y problemas tecnológicos?</p>
+<p>●     ¿Qué herramientas digitales podemos utilizar para crear nuestros propios contenidos y compartir nuestras ideas?</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795013763252-2jpydz30w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/PARTESPC.jpeg\" title=\"PARTESPC\" width=\"554\" height=\"554\" alt=\"PARTESPC\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>●     ¿Qué partes conforman un computador y cuál es la función de cada una?</p>\n<p>●     ¿Cómo podemos aprovechar las herramientas digitales para aprender y desarrollar nuestras actividades escolares?</p>\n<p>●     ¿Cómo podemos proteger nuestra información y navegar de manera segura en internet?</p>\n<p>●     ¿De qué manera podemos utilizar el pensamiento lógico para resolver retos y problemas tecnológicos?</p>\n<p>●     ¿Qué herramientas digitales podemos utilizar para crear nuestros propios contenidos y compartir nuestras ideas?</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm8vibw-la7b2t5kk</odePageId>
+  <odeParentPageId>page-mwm8rm3i-a7ga2gwo8</odeParentPageId>
+  <pageName>OBJETIVO OVA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>OBJETIVO OVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>OBJETIVO OVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm8vibw-la7b2t5kk</odePageId>
+      <odeBlockId>block-mwm8vjit-f8b8wkydy</odeBlockId>
+      <blockName>OBJETIVO</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm8vibw-la7b2t5kk</odePageId>
+          <odeBlockId>block-mwm8vjit-f8b8wkydy</odeBlockId>
+          <odeIdeviceId>idevice-1795013809300-qzih3eyr1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>OBJETIVO GENERAL</strong></p>
+<p>Fortalecer las habilidades digitales de los estudiantes del grado quinto de la Institución Educativa General Santander de Sibaté, Cundinamarca, mediante actividades lúdicas e interactivas que promuevan el uso adecuado de herramientas tecnológicas, el pensamiento lógico y la seguridad digital </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795013809300-qzih3eyr1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>OBJETIVO GENERAL</strong></p>\n<p>Fortalecer las habilidades digitales de los estudiantes del grado quinto de la Institución Educativa General Santander de Sibaté, Cundinamarca, mediante actividades lúdicas e interactivas que promuevan el uso adecuado de herramientas tecnológicas, el pensamiento lógico y la seguridad digital </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm8wqc4-0qdfd9nu0</odePageId>
+  <odeParentPageId>page-mwm8rm3i-a7ga2gwo8</odeParentPageId>
+  <pageName>OBJETIVOS ESPECIFICOS</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>OBJETIVOS ESPECIFICOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>OBJETIVOS ESPECIFICOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm8wqc4-0qdfd9nu0</odePageId>
+      <odeBlockId>block-mwm8wrss-8i24bowdo</odeBlockId>
+      <blockName>OBJETIVOS ESPECIFICOS</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm8wqc4-0qdfd9nu0</odePageId>
+          <odeBlockId>block-mwm8wrss-8i24bowdo</odeBlockId>
+          <odeIdeviceId>idevice-1795013866683-onuwl4385</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Reconocer y comprender los componentes físicos y lógicos del computador, así como la utilidad y las funciones de las herramientas y programas digitales, mediante actividades lúdicas e interactivas.</p>
+<p>Aplicar y analizar conocimientos y habilidades digitales mediante el uso de herramientas y aplicaciones tecnológicas, desarrollando ejercicios de pensamiento lógico y resolución de problemas.</p>
+<p>Evaluar y crear acciones y productos digitales mediante actividades que promuevan el uso seguro y responsable de internet, la creatividad y la aplicación de los conocimientos adquiridos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795013866683-onuwl4385","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Reconocer y comprender los componentes físicos y lógicos del computador, así como la utilidad y las funciones de las herramientas y programas digitales, mediante actividades lúdicas e interactivas.</p>\n<p>Aplicar y analizar conocimientos y habilidades digitales mediante el uso de herramientas y aplicaciones tecnológicas, desarrollando ejercicios de pensamiento lógico y resolución de problemas.</p>\n<p>Evaluar y crear acciones y productos digitales mediante actividades que promuevan el uso seguro y responsable de internet, la creatividad y la aplicación de los conocimientos adquiridos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm8yosk-cq4divmsd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3.COMPETENCIAS Y RESULTADOS DE APRENDIZAJE</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.COMPETENCIAS Y RESULTADOS DE APRENDIZAJE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.COMPETENCIAS Y RESULTADOS DE APRENDIZAJE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.COMPETENCIAS Y RESULTADOS DE APRENDIZAJE</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm8yosk-cq4divmsd</odePageId>
+      <odeBlockId>block-mwm8yqqk-ch84xayrq</odeBlockId>
+      <blockName>COMPETENCIAS Y RESULTADOS DE
+APRENDIZAJE QUE DEBEN ALCANZAR LOS ESTUDIANTES</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm8yosk-cq4divmsd</odePageId>
+          <odeBlockId>block-mwm8yqqk-ch84xayrq</odeBlockId>
+          <odeIdeviceId>idevice-1795013958619-yqk20tx0n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/TABLADIANA.png" title="COMPETENCIAS Y RESULTADOS DE APRENDIZAJE ALCANZAR LOS ESTUDIANTES " width="715" height="435" alt="Tabla" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795013958619-yqk20tx0n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/TABLADIANA.png\" title=\"COMPETENCIAS Y RESULTADOS DE APRENDIZAJE ALCANZAR LOS ESTUDIANTES \" width=\"715\" height=\"435\" alt=\"Tabla\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm97vle-4esnpma2q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4.INTRODUCCIÓN</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm97vle-4esnpma2q</odePageId>
+      <odeBlockId>block-mwm988e1-v4wne8ifd</odeBlockId>
+      <blockName>INTRODUCCION</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm97vle-4esnpma2q</odePageId>
+          <odeBlockId>block-mwm988e1-v4wne8ifd</odeBlockId>
+          <odeIdeviceId>idevice-1795014401400-xjumnxpc2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El presente Objeto Virtual de Aprendizaje (OVA) tiene como propósito fortalecer las habilidades digitales de los estudiantes del grado quinto grupo 01 de la Institución Educativa General Santander del municipio de Sibaté, Cundinamarca, mediante el juego virtual como estrategia pedagógica en el área de Sistemas.</p>
+<p>Esta propuesta busca promover un aprendizaje dinámico, interactivo y significativo a través de juegos, retos y actividades digitales que permitan a los estudiantes desarrollar competencias tecnológicas, pensamiento lógico y creatividad. Asimismo, pretende fomentar el uso adecuado y responsable de las herramientas digitales, fortaleciendo su proceso de formación académica y personal.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795014401400-xjumnxpc2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El presente Objeto Virtual de Aprendizaje (OVA) tiene como propósito fortalecer las habilidades digitales de los estudiantes del grado quinto grupo 01 de la Institución Educativa General Santander del municipio de Sibaté, Cundinamarca, mediante el juego virtual como estrategia pedagógica en el área de Sistemas.</p>\n<p>Esta propuesta busca promover un aprendizaje dinámico, interactivo y significativo a través de juegos, retos y actividades digitales que permitan a los estudiantes desarrollar competencias tecnológicas, pensamiento lógico y creatividad. Asimismo, pretende fomentar el uso adecuado y responsable de las herramientas digitales, fortaleciendo su proceso de formación académica y personal.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm993a2-4hixs4xfg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5.JUSTIFICACIÓN</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.JUSTIFICACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.JUSTIFICACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5.JUSTIFICACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm993a2-4hixs4xfg</odePageId>
+      <odeBlockId>block-mwm994hv-l592o1hw6</odeBlockId>
+      <blockName>JUSTIFICACION</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm993a2-4hixs4xfg</odePageId>
+          <odeBlockId>block-mwm994hv-l592o1hw6</odeBlockId>
+          <odeIdeviceId>idevice-1795014443010-d1iy54pju</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El diseño de este Objeto Virtual de Aprendizaje (OVA) se justifica por la necesidad de fortalecer las habilidades digitales de los estudiantes del grado quinto grupo 01 de la Institución Educativa General Santander del municipio de Sibaté, Cundinamarca, mediante el juego virtual como estrategia pedagógica innovadora.</p>
+<p>Su utilidad consiste en ofrecer un recurso educativo interactivo que facilite el aprendizaje de los contenidos del área de Sistemas a través de juegos, retos y actividades digitales que despierten el interés y la motivación de los estudiantes.</p>
+<p>El aporte a la formación se centra en desarrollar competencias digitales, pensamiento lógico, autonomía, creatividad y capacidad para resolver problemas, además de promover el uso adecuado, seguro y responsable de la tecnología. De esta manera, se busca que los estudiantes aprendan de forma dinámica y significativa, fortaleciendo sus conocimientos y habilidades para desenvolverse en la sociedad digital actual.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795014443010-d1iy54pju","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El diseño de este Objeto Virtual de Aprendizaje (OVA) se justifica por la necesidad de fortalecer las habilidades digitales de los estudiantes del grado quinto grupo 01 de la Institución Educativa General Santander del municipio de Sibaté, Cundinamarca, mediante el juego virtual como estrategia pedagógica innovadora.</p>\n<p>Su utilidad consiste en ofrecer un recurso educativo interactivo que facilite el aprendizaje de los contenidos del área de Sistemas a través de juegos, retos y actividades digitales que despierten el interés y la motivación de los estudiantes.</p>\n<p>El aporte a la formación se centra en desarrollar competencias digitales, pensamiento lógico, autonomía, creatividad y capacidad para resolver problemas, además de promover el uso adecuado, seguro y responsable de la tecnología. De esta manera, se busca que los estudiantes aprendan de forma dinámica y significativa, fortaleciendo sus conocimientos y habilidades para desenvolverse en la sociedad digital actual.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm9bbd4-d6fqks1mq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6.MODALIDAD A LA QUE SE APLICA</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.MODALIDAD A LA QUE SE APLICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.MODALIDAD A LA QUE SE APLICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6.MODALIDAD A LA QUE SE APLICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm9bbd4-d6fqks1mq</odePageId>
+      <odeBlockId>block-mwm9bddk-1n8f5w0zb</odeBlockId>
+      <blockName>B-LEARNING (APRENDIZAJE COMBINADO)</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm9bbd4-d6fqks1mq</odePageId>
+          <odeBlockId>block-mwm9bddk-1n8f5w0zb</odeBlockId>
+          <odeIdeviceId>idevice-1795014547832-jxrnft083</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El OVA se desarrollará bajo la modalidad B-learning, que combina el aprendizaje presencial con actividades virtuales. Los estudiantes realizarán actividades orientadas por el docente en el aula de Sistemas y complementarán su aprendizaje mediante juegos virtuales, vídeos, retos y ejercicios interactivos.</p>
+<p>Esta modalidad permite fortalecer las habilidades digitales de los estudiantes mediante el acompañamiento docente y el uso de herramientas tecnológicas, promoviendo un aprendizaje dinámico, participativo y significativo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795014547832-jxrnft083","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El OVA se desarrollará bajo la modalidad B-learning, que combina el aprendizaje presencial con actividades virtuales. Los estudiantes realizarán actividades orientadas por el docente en el aula de Sistemas y complementarán su aprendizaje mediante juegos virtuales, vídeos, retos y ejercicios interactivos.</p>\n<p>Esta modalidad permite fortalecer las habilidades digitales de los estudiantes mediante el acompañamiento docente y el uso de herramientas tecnológicas, promoviendo un aprendizaje dinámico, participativo y significativo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm9cnpj-rdlewxa4w</odePageId>
+  <odeParentPageId>page-mwm9bbd4-d6fqks1mq</odeParentPageId>
+  <pageName>TIEMPO ESTIMADO DE DURACIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TIEMPO ESTIMADO DE DURACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TIEMPO ESTIMADO DE DURACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm9cnpj-rdlewxa4w</odePageId>
+      <odeBlockId>block-mwm9cown-cpkyo1gx8</odeBlockId>
+      <blockName>TIEMPO ESTIMADO</blockName>
+      <iconName>mi-watch_screentime</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm9cnpj-rdlewxa4w</odePageId>
+          <odeBlockId>block-mwm9cown-cpkyo1gx8</odeBlockId>
+          <odeIdeviceId>idevice-1795014609431-wczc4xkfi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El OVA tendrá una duración estimada de 4 semanas, con una intensidad de 3 horas semanales, para un total de 12 horas distribuidas en 8 sesiones de trabajo. Durante este tiempo, los estudiantes desarrollarán actividades interactivas, juegos virtuales, retos y evaluaciones relacionadas con el fortalecimiento de sus habilidades digitales en el área de Sistemas. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795014609431-wczc4xkfi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El OVA tendrá una duración estimada de 4 semanas, con una intensidad de 3 horas semanales, para un total de 12 horas distribuidas en 8 sesiones de trabajo. Durante este tiempo, los estudiantes desarrollarán actividades interactivas, juegos virtuales, retos y evaluaciones relacionadas con el fortalecimiento de sus habilidades digitales en el área de Sistemas. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm9drg0-0p1vjhfw4</odePageId>
+  <odeParentPageId>page-mwm9bbd4-d6fqks1mq</odeParentPageId>
+  <pageName>A QUIÉN VA DIRIGIDO</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>A QUIÉN VA DIRIGIDO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>A QUIÉN VA DIRIGIDO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm9drg0-0p1vjhfw4</odePageId>
+      <odeBlockId>block-mwm9dsp4-kgd1k6q5x</odeBlockId>
+      <blockName>CARACTERIZACION</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm9drg0-0p1vjhfw4</odePageId>
+          <odeBlockId>block-mwm9dsp4-kgd1k6q5x</odeBlockId>
+          <odeIdeviceId>idevice-1795014660999-qvzmnskon</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El OVA está dirigido a los estudiantes del grado 501 de la Institución Educativa General Santander, ubicada en el municipio de Sibaté, Cundinamarca. La población está conformada por niños y niñas con edades aproximadas entre los 9 y 10 años, que se encuentran en quinto grado de educación básica primaria.</p>
+<p>Los estudiantes presentan diferentes niveles de conocimientos y habilidades en el manejo de herramientas tecnológicas, por lo que se propone implementar juegos virtuales y actividades interactivas que respondan a sus necesidades de aprendizaje. Se busca fortalecer sus competencias digitales, estimular su creatividad, desarrollar el pensamiento lógico y promover el uso adecuado de la tecnología mediante experiencias educativas dinámicas y motivadoras.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795014660999-qvzmnskon","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El OVA está dirigido a los estudiantes del grado 501 de la Institución Educativa General Santander, ubicada en el municipio de Sibaté, Cundinamarca. La población está conformada por niños y niñas con edades aproximadas entre los 9 y 10 años, que se encuentran en quinto grado de educación básica primaria.</p>\n<p>Los estudiantes presentan diferentes niveles de conocimientos y habilidades en el manejo de herramientas tecnológicas, por lo que se propone implementar juegos virtuales y actividades interactivas que respondan a sus necesidades de aprendizaje. Se busca fortalecer sus competencias digitales, estimular su creatividad, desarrollar el pensamiento lógico y promover el uso adecuado de la tecnología mediante experiencias educativas dinámicas y motivadoras.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm9euj4-n2gia8f94</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7.ESTRUCTURA GENERAL DEL ENTORNO Y SUBTEMAS A DESARROLLAR</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.ESTRUCTURA GENERAL DEL ENTORNO Y SUBTEMAS A DESARROLLAR</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.ESTRUCTURA GENERAL DEL ENTORNO Y SUBTEMAS A DESARROLLAR</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7.ESTRUCTURA GENERAL DEL ENTORNO Y SUBTEMAS A DESARROLLAR</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm9euj4-n2gia8f94</odePageId>
+      <odeBlockId>block-mwm9excv-j0ssfqp11</odeBlockId>
+      <blockName>ESTRUCTURA GENERAL</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm9euj4-n2gia8f94</odePageId>
+          <odeBlockId>block-mwm9excv-j0ssfqp11</odeBlockId>
+          <odeIdeviceId>idevice-1795014713695-917e0pwbu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La estructura para el OVA está basada como el juego no es solo un entretenimiento y de acuerdo a la apreciación del Psicólogo suizo Jean Piaget se propone que los contenidos este fundamentados en la asimilación de estructuras mentales y la acomodación de nuevos retos.</p>
+<p>De acuerdo a esto la estructura pedagógica a tener en cuenta sería:</p>
+<p>Nivel 1:Exploradores del computador descubramos el hardware:  Para reconocer las partes del computador  (teclado, mouse, monitor, PC) se inicia por ingresar al link   https://wordwall.net/es/resource/123283757?wwmethod=link</p>
+<p>preguntas retroalimentadoras </p>
+<p>1.1  Cuál es la diferencia del hardware y el software</p>
+<p>1.2  Que compone los dispositivos internos</p>
+<p>1.3  Cuáles son los componentes de entrada y salida de un computador</p>
+<p> Nivel 2:  Detectives digitales,encuentra el error en los comandos: Este nivel permite identificar en los estudiantes cuando se presenta una falla y no se llega  a la meta, se ven en la necesidad de investigar el porqué, transformando la frustración en curiosidad científica y lógica computacional.</p>
+<p>preguntas retroalimentadoras</p>
+<p>2.1 Qué es un comando</p>
+<p>2.2 Cuál sería el orden para tener una secuencia correcta</p>
+<p>2.3 Cómo podemos encontrar las fallas</p>
+<p>Nivel 3. Creadores digitales, Creemos nuestro propio mini proyecto:  Aquí se busca que el estudiante muestre y pongan en práctica  lo aprendido inventando un juego.interactivo así:</p>
+<p>pasos;</p>
+<p>3.1 Lluvia de ideas</p>
+<p>3.2 Crear el paso a paso</p>
+<p>3.3 Compartir la información</p>
+<p>3.4 Presentación</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795014713695-917e0pwbu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La estructura para el OVA está basada como el juego no es solo un entretenimiento y de acuerdo a la apreciación del Psicólogo suizo Jean Piaget se propone que los contenidos este fundamentados en la asimilación de estructuras mentales y la acomodación de nuevos retos.</p>\n<p>De acuerdo a esto la estructura pedagógica a tener en cuenta sería:</p>\n<p>Nivel 1:Exploradores del computador descubramos el hardware:  Para reconocer las partes del computador  (teclado, mouse, monitor, PC) se inicia por ingresar al link   https://wordwall.net/es/resource/123283757?wwmethod=link</p>\n<p>preguntas retroalimentadoras </p>\n<p>1.1  Cuál es la diferencia del hardware y el software</p>\n<p>1.2  Que compone los dispositivos internos</p>\n<p>1.3  Cuáles son los componentes de entrada y salida de un computador</p>\n<p> Nivel 2:  Detectives digitales,encuentra el error en los comandos: Este nivel permite identificar en los estudiantes cuando se presenta una falla y no se llega  a la meta, se ven en la necesidad de investigar el porqué, transformando la frustración en curiosidad científica y lógica computacional.</p>\n<p>preguntas retroalimentadoras</p>\n<p>2.1 Qué es un comando</p>\n<p>2.2 Cuál sería el orden para tener una secuencia correcta</p>\n<p>2.3 Cómo podemos encontrar las fallas</p>\n<p>Nivel 3. Creadores digitales, Creemos nuestro propio mini proyecto:  Aquí se busca que el estudiante muestre y pongan en práctica  lo aprendido inventando un juego.interactivo así:</p>\n<p>pasos;</p>\n<p>3.1 Lluvia de ideas</p>\n<p>3.2 Crear el paso a paso</p>\n<p>3.3 Compartir la información</p>\n<p>3.4 Presentación</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm9gx0e-5tx1s6c43</odePageId>
+  <odeParentPageId>page-mwm9euj4-n2gia8f94</odeParentPageId>
+  <pageName>CONTENIDOS – RECURSOS EDUCATIVOS - TECNOLOGÍAS </pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONTENIDOS – RECURSOS EDUCATIVOS - TECNOLOGÍAS </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONTENIDOS – RECURSOS EDUCATIVOS - TECNOLOGÍAS </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm9gx0e-5tx1s6c43</odePageId>
+      <odeBlockId>block-mwm9gz3b-nupoge6d3</odeBlockId>
+      <blockName>PRINCIPIOS PEDAGÓGICOS
+QUE ORIENTAN LA FORMACIÓN</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm9gx0e-5tx1s6c43</odePageId>
+          <odeBlockId>block-mwm9gz3b-nupoge6d3</odeBlockId>
+          <odeIdeviceId>idevice-1795014809254-l6dg0g1qd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el OVA, utilizaremos Infografías interactivas, maquetas en material reciclado de los componentes del computador, juegos virtuales</p>
+<p>herramientas tecnológicas como;</p>
+<p>Genially: organización y presentación de contenidos, instrucciones y recorridos del OVA.</p>
+<p>Wordwall: juegos de memoria, asociación y clasificación.Educaplay: cuestionarios, actividades de refuerzo y evaluación.</p>
+<p>Scratch: exploración de secuencias, pensamiento lógico y creación de proyectos sencillos</p>
+<p>Canva: diseño de infografías y materiales visuales.</p>
+<p>Videos, infografías, guías breves y materiales elaborados por las autoras.</p>
+<p>Las herramientas se incorporarán según la función que cumplen en cada actividad. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795014809254-l6dg0g1qd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el OVA, utilizaremos Infografías interactivas, maquetas en material reciclado de los componentes del computador, juegos virtuales</p>\n<p>herramientas tecnológicas como;</p>\n<p>Genially: organización y presentación de contenidos, instrucciones y recorridos del OVA.</p>\n<p>Wordwall: juegos de memoria, asociación y clasificación.Educaplay: cuestionarios, actividades de refuerzo y evaluación.</p>\n<p>Scratch: exploración de secuencias, pensamiento lógico y creación de proyectos sencillos</p>\n<p>Canva: diseño de infografías y materiales visuales.</p>\n<p>Videos, infografías, guías breves y materiales elaborados por las autoras.</p>\n<p>Las herramientas se incorporarán según la función que cumplen en cada actividad. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm9j0rz-255mv3udk</odePageId>
+  <odeParentPageId>page-mwm9euj4-n2gia8f94</odeParentPageId>
+  <pageName>SECUENCIAS DIDÁCTICAS</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SECUENCIAS DIDÁCTICAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SECUENCIAS DIDÁCTICAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm9j0rz-255mv3udk</odePageId>
+      <odeBlockId>block-mwm9j1zj-l3av89006</odeBlockId>
+      <blockName>SECUENCIAS DIDACTICAS</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm9j0rz-255mv3udk</odePageId>
+          <odeBlockId>block-mwm9j1zj-l3av89006</odeBlockId>
+          <odeIdeviceId>idevice-1795014906318-ne929i6xl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el OVA se tendrá las siguientes secuencias para cada nivel de acuerdo a la estructuración como es Iniciar con un juego interactivo, luego Desarrollar cada tema y subtema con una investigación de forma activa, finalizando en el cierre donde los estudiantes exponen sus conceptos y luego se termina con la retroalimentación por medio de un juego.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795014906318-ne929i6xl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el OVA se tendrá las siguientes secuencias para cada nivel de acuerdo a la estructuración como es Iniciar con un juego interactivo, luego Desarrollar cada tema y subtema con una investigación de forma activa, finalizando en el cierre donde los estudiantes exponen sus conceptos y luego se termina con la retroalimentación por medio de un juego.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm9jxyd-vdytut48i</odePageId>
+  <odeParentPageId>page-mwm9euj4-n2gia8f94</odeParentPageId>
+  <pageName>RECURSOS DIGITALES PARA LAS ACTIVIDADES</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS DIGITALES PARA LAS ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS DIGITALES PARA LAS ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm9jxyd-vdytut48i</odePageId>
+      <odeBlockId>block-mwm9jz1m-usam9o10u</odeBlockId>
+      <blockName>RECURSOS DIGITALES</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm9jxyd-vdytut48i</odePageId>
+          <odeBlockId>block-mwm9jz1m-usam9o10u</odeBlockId>
+          <odeIdeviceId>idevice-1795014949160-dbiata6q4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Los  recursos que utilizaremos para las actividades son : </p>
+<p>●     Visuales: Video interactivos de componentes del computador, errores en alguna pantalla, ejemplos de proyectos</p>
+<p>●     Texto / Escrito: Documento para expresar la ideas, juegos de interacción, muestra de algunos formatos (Google forms)</p>
+<p>●     Multimedia: Video interactivo sobre la diferencia entre hardware y software, utilización de alguna plataforma, manipulación en el software scratch.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795014949160-dbiata6q4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los  recursos que utilizaremos para las actividades son : </p>\n<p>●     Visuales: Video interactivos de componentes del computador, errores en alguna pantalla, ejemplos de proyectos</p>\n<p>●     Texto / Escrito: Documento para expresar la ideas, juegos de interacción, muestra de algunos formatos (Google forms)</p>\n<p>●     Multimedia: Video interactivo sobre la diferencia entre hardware y software, utilización de alguna plataforma, manipulación en el software scratch.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm9l5bi-2zdaypdhf</odePageId>
+  <odeParentPageId>page-mwm9euj4-n2gia8f94</odeParentPageId>
+  <pageName>METODOS DE EVALUACION</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>METODOS DE EVALUACION</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>METODOS DE EVALUACION</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm9l5bi-2zdaypdhf</odePageId>
+      <odeBlockId>block-mwm9l6f2-snbggc2oz</odeBlockId>
+      <blockName>METODOS
+DE EVALUACION</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm9l5bi-2zdaypdhf</odePageId>
+          <odeBlockId>block-mwm9l6f2-snbggc2oz</odeBlockId>
+          <odeIdeviceId>idevice-1795015005373-a7sfsm0mk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación del OVA será continua, formativa y participativa, con el propósito de identificar los conocimientos previos, los avances y los aprendizajes adquiridos por los estudiantes del grado quinto grupo 01 (501) durante el desarrollo de las actividades.</p>
+<p>Se utilizarán los siguientes métodos:</p>
+<p><img src="{{context_path}}/content/resources/TABLADIANA2.png" title="METODOS DE EVALUACION" width="714" height="428" alt="METODOS DE EVALUACION" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795015005373-a7sfsm0mk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación del OVA será continua, formativa y participativa, con el propósito de identificar los conocimientos previos, los avances y los aprendizajes adquiridos por los estudiantes del grado quinto grupo 01 (501) durante el desarrollo de las actividades.</p>\n<p>Se utilizarán los siguientes métodos:</p>\n<p><img src=\"{{context_path}}/content/resources/TABLADIANA2.png\" title=\"METODOS DE EVALUACION\" width=\"714\" height=\"428\" alt=\"METODOS DE EVALUACION\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm9o8ss-eejoiogw6</odePageId>
+  <odeParentPageId>page-mwm9euj4-n2gia8f94</odeParentPageId>
+  <pageName>CRITERIOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm9o8ss-eejoiogw6</odePageId>
+      <odeBlockId>block-mwm9o9yt-j7x4ys840</odeBlockId>
+      <blockName>CRITERIOS DE EVALUACIÓN</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm9o8ss-eejoiogw6</odePageId>
+          <odeBlockId>block-mwm9o9yt-j7x4ys840</odeBlockId>
+          <odeIdeviceId>idevice-1795015149940-fbq12ul85</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se tendrán en cuenta los siguientes criterios para valorar el desempeño y el fortalecimiento de las habilidades digitales de los estudiantes:</p>
+<p><img src="{{context_path}}/content/resources/TABLADIANA3.png" title="CRITERIOS DE EVALUACIÓN" width="718" height="436" alt="CRITERIOS DE EVALUACIÓN" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795015149940-fbq12ul85","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se tendrán en cuenta los siguientes criterios para valorar el desempeño y el fortalecimiento de las habilidades digitales de los estudiantes:</p>\n<p><img src=\"{{context_path}}/content/resources/TABLADIANA3.png\" title=\"CRITERIOS DE EVALUACIÓN\" width=\"718\" height=\"436\" alt=\"CRITERIOS DE EVALUACIÓN\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm9rqu3-9zz9e1p42</odePageId>
+  <odeParentPageId>page-mwm9euj4-n2gia8f94</odeParentPageId>
+  <pageName>ESCALA DE VALORACIÓN </pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ESCALA DE VALORACIÓN </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ESCALA DE VALORACIÓN </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm9rqu3-9zz9e1p42</odePageId>
+      <odeBlockId>block-mwm9rs30-c6wcq7eiw</odeBlockId>
+      <blockName>ESCALA DE VALORACIÓN</blockName>
+      <iconName>mi-60fps_select</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm9rqu3-9zz9e1p42</odePageId>
+          <odeBlockId>block-mwm9rs30-c6wcq7eiw</odeBlockId>
+          <odeIdeviceId>idevice-1795015313387-h0js6rkm1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1. Superior: demuestra dominio de las habilidades digitales.<br />2. Alto: desarrolla adecuadamente las actividades propuestas.<br />3. Básico: alcanza los aprendizajes fundamentales con apoyo.<br />4. Bajo: presenta dificultades para desarrollar las actividades y requiere acompañamiento.</p>
+<p><img src="{{context_path}}/content/resources/TABLADIANA4.png" title="ESCALA DE VALORACIÓN " width="723" height="497" alt="ESCALA DE VALORACIÓN " /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795015313387-h0js6rkm1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1. Superior: demuestra dominio de las habilidades digitales.<br />2. Alto: desarrolla adecuadamente las actividades propuestas.<br />3. Básico: alcanza los aprendizajes fundamentales con apoyo.<br />4. Bajo: presenta dificultades para desarrollar las actividades y requiere acompañamiento.</p>\n<p><img src=\"{{context_path}}/content/resources/TABLADIANA4.png\" title=\"ESCALA DE VALORACIÓN \" width=\"723\" height=\"497\" alt=\"ESCALA DE VALORACIÓN \" /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwm9x3m9-uyri7b76c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8.GUIA DE ACTIVIDADES NIVEL 1</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8.GUIA DE ACTIVIDADES NIVEL 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8.GUIA DE ACTIVIDADES NIVEL 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8.GUIA DE ACTIVIDADES NIVEL 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwm9x3m9-uyri7b76c</odePageId>
+      <odeBlockId>block-mwm9x4w3-n93v8febw</odeBlockId>
+      <blockName>ACTIVIDADES NIVEL 1</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwm9x3m9-uyri7b76c</odePageId>
+          <odeBlockId>block-mwm9x4w3-n93v8febw</odeBlockId>
+          <odeIdeviceId>idevice-1795015563266-entqy6j2r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La siguiente guía organiza las actividades que desarrollarán los estudiantes durante el mes de implementación del OVA “Misión Digital 501: Aprendiendo con juegos virtuales”.</p>
+<p><img src="{{context_path}}/content/resources/TABLADIANA5.png" title="ACTIVIDADES NIVEL 1" width="805" height="279" alt="ACTIVIDADES NIVEL 1" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795015563266-entqy6j2r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La siguiente guía organiza las actividades que desarrollarán los estudiantes durante el mes de implementación del OVA “Misión Digital 501: Aprendiendo con juegos virtuales”.</p>\n<p><img src=\"{{context_path}}/content/resources/TABLADIANA5.png\" title=\"ACTIVIDADES NIVEL 1\" width=\"805\" height=\"279\" alt=\"ACTIVIDADES NIVEL 1\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwma23ds-5sxv0ewl7</odePageId>
+  <odeParentPageId>page-mwm9x3m9-uyri7b76c</odeParentPageId>
+  <pageName>DESARROLLO DE LAS ACTIVIDADES</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESARROLLO DE LAS ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESARROLLO DE LAS ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>DESARROLLO DE LAS ACTIVIDADES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwma23ds-5sxv0ewl7</odePageId>
+      <odeBlockId>block-mwma24o9-wxzalxy4c</odeBlockId>
+      <blockName>DESARROLLO DE LAS ACTIVIDADES</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwma23ds-5sxv0ewl7</odePageId>
+          <odeBlockId>block-mwma24o9-wxzalxy4c</odeBlockId>
+          <odeIdeviceId>idevice-1795015796264-fak38bgs9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Actividad 1. Exploradores del computador<br />Objetivo: Recordar y comprender los componentes del computador y sus funciones.</p>
+<p>Desarrollo:</p>
+<p>1.  Observar una infografía o vídeo breve sobre hardware, software y periféricos.</p>
+<p>2.  Identificar componentes internos y externos y distinguir dispositivos de entrada y salida.</p>
+<p>3.  Resolver un juego de asociación entre cada componente, su nombre y su función.</p>
+<p>4.  Socializar las respuestas y corregir los errores con apoyo del docente.</p>
+<p>Recursos: Infografía, video y juego de asociación en Word Wall.</p>
+<p>Evidencia de aprendizaje: Actividad de asociación completada.</p>
+<p>Criterios de valoración: El estudiante  reconoce los componentes, los clasifica correctamente y relaciona cada uno con su función.</p>
+<p> </p>
+<p>Actividad 2. Detectives digitales<br />Objetivo: Aplicar el manejo de herramientas informáticas básicas y analizar instrucciones y secuencias.</p>
+<p>Desarrollo:</p>
+<p>Realizar ejercicios de uso del teclado y del mouse.</p>
+<p>Practicar tareas básicas en el computador, como escribir un texto breve y organizar archivos o carpetas, si el entorno lo permite.</p>
+<p>Ordenar una secuencia de instrucciones para completar una tarea.</p>
+<p>Revisar una secuencia con errores, identificar el paso incorrecto y proponer una corrección.</p>
+<p>Recursos: Computador, teclado, mouse, guía de ejercicios y actividad de secuencias.</p>
+<p>Evidencia de aprendizaje: Ejercicio práctico y secuencia corregida.</p>
+<p>Criterios de valoración: El estudiante utiliza las herramientas básicas y organiza o corrige instrucciones de manera lógica.</p>
+<p>Actividad 3. Navegantes responsables<br />Objetivo: Analizar situaciones digitales y evaluar prácticas seguras para proteger la información personal.</p>
+<p>Desarrollo:</p>
+<p>Observar un video o presentación sobre privacidad, datos personales y seguridad en internet.</p>
+<p>Leer o escuchar situaciones cotidianas relacionadas con mensajes, enlaces, contraseñas y solicitudes de información.</p>
+<p>Identificar los riesgos de cada situación y decidir qué acción sería más segura.</p>
+<p>Resolver un cuestionario interactivo y explicar </p>
+<p>Recursos: Video educativo, casos breves, Genially o Educaplay.</p>
+<p>Evidencia de aprendizaje: Cuestionario resuelto y explicación de decisiones.</p>
+<p>Criterios de valoración: El estudiante identifica riesgos y selecciona acciones responsables para proteger sus datos.</p>
+<p>Actividad 4. Creadores digitales</p>
+<p>Objetivo: Crear un producto digital sencillo que integre los conocimientos desarrollados en las misiones anteriores.</p>
+<p>Desarrollo:</p>
+<p>Realizar una lluvia de ideas sobre el producto que se elaborará (por ejemplo, una animación, historia interactiva o juego sencillo).</p>
+<p>Planear el producto mediante una secuencia de pasos o instrucciones.</p>
+<p>Construirlo con Scratch u otra herramienta disponible, con acompañamiento docente.</p>
+<p>Presentar el producto al grupo y explicar cómo funciona y qué aprendizajes integra.</p>
+<p>Recursos: Scratch u otra herramienta disponible, computador y guía de planeación.</p>
+<p>Evidencia de aprendizaje: Producto digital y presentación breve.</p>
+<p>Criterios de valoración: El producto evidencia creatividad, una secuencia comprensible y aplicación de los aprendizajes.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795015796264-fak38bgs9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Actividad 1. Exploradores del computador<br />Objetivo: Recordar y comprender los componentes del computador y sus funciones.</p>\n<p>Desarrollo:</p>\n<p>1.  Observar una infografía o vídeo breve sobre hardware, software y periféricos.</p>\n<p>2.  Identificar componentes internos y externos y distinguir dispositivos de entrada y salida.</p>\n<p>3.  Resolver un juego de asociación entre cada componente, su nombre y su función.</p>\n<p>4.  Socializar las respuestas y corregir los errores con apoyo del docente.</p>\n<p>Recursos: Infografía, video y juego de asociación en Word Wall.</p>\n<p>Evidencia de aprendizaje: Actividad de asociación completada.</p>\n<p>Criterios de valoración: El estudiante  reconoce los componentes, los clasifica correctamente y relaciona cada uno con su función.</p>\n<p> </p>\n<p>Actividad 2. Detectives digitales<br />Objetivo: Aplicar el manejo de herramientas informáticas básicas y analizar instrucciones y secuencias.</p>\n<p>Desarrollo:</p>\n<p>Realizar ejercicios de uso del teclado y del mouse.</p>\n<p>Practicar tareas básicas en el computador, como escribir un texto breve y organizar archivos o carpetas, si el entorno lo permite.</p>\n<p>Ordenar una secuencia de instrucciones para completar una tarea.</p>\n<p>Revisar una secuencia con errores, identificar el paso incorrecto y proponer una corrección.</p>\n<p>Recursos: Computador, teclado, mouse, guía de ejercicios y actividad de secuencias.</p>\n<p>Evidencia de aprendizaje: Ejercicio práctico y secuencia corregida.</p>\n<p>Criterios de valoración: El estudiante utiliza las herramientas básicas y organiza o corrige instrucciones de manera lógica.</p>\n<p>Actividad 3. Navegantes responsables<br />Objetivo: Analizar situaciones digitales y evaluar prácticas seguras para proteger la información personal.</p>\n<p>Desarrollo:</p>\n<p>Observar un video o presentación sobre privacidad, datos personales y seguridad en internet.</p>\n<p>Leer o escuchar situaciones cotidianas relacionadas con mensajes, enlaces, contraseñas y solicitudes de información.</p>\n<p>Identificar los riesgos de cada situación y decidir qué acción sería más segura.</p>\n<p>Resolver un cuestionario interactivo y explicar </p>\n<p>Recursos: Video educativo, casos breves, Genially o Educaplay.</p>\n<p>Evidencia de aprendizaje: Cuestionario resuelto y explicación de decisiones.</p>\n<p>Criterios de valoración: El estudiante identifica riesgos y selecciona acciones responsables para proteger sus datos.</p>\n<p>Actividad 4. Creadores digitales</p>\n<p>Objetivo: Crear un producto digital sencillo que integre los conocimientos desarrollados en las misiones anteriores.</p>\n<p>Desarrollo:</p>\n<p>Realizar una lluvia de ideas sobre el producto que se elaborará (por ejemplo, una animación, historia interactiva o juego sencillo).</p>\n<p>Planear el producto mediante una secuencia de pasos o instrucciones.</p>\n<p>Construirlo con Scratch u otra herramienta disponible, con acompañamiento docente.</p>\n<p>Presentar el producto al grupo y explicar cómo funciona y qué aprendizajes integra.</p>\n<p>Recursos: Scratch u otra herramienta disponible, computador y guía de planeación.</p>\n<p>Evidencia de aprendizaje: Producto digital y presentación breve.</p>\n<p>Criterios de valoración: El producto evidencia creatividad, una secuencia comprensible y aplicación de los aprendizajes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwmzofqo-zepm1rg1r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CONCLUSIONES</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONCLUSIONES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONCLUSIONES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwmzofqo-zepm1rg1r</odePageId>
+      <odeBlockId>block-mwmzohpv-qwcvjple0</odeBlockId>
+      <blockName>CONCLUSIONES</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwmzofqo-zepm1rg1r</odePageId>
+          <odeBlockId>block-mwmzohpv-qwcvjple0</odeBlockId>
+          <odeIdeviceId>idevice-1795058830000-5s5kt9u02</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El diseño de este OVA permite reconocer que el juego virtual es una estrategia pedagógica que favorece la motivación, la participación y el aprendizaje significativo de los estudiantes, al convertir los contenidos del área de Sistemas en experiencias dinámicas, prácticas e interactivas.</p>
+<p style="text-align: justify;">Mediante actividades como la exploración de los componentes del computador, la resolución de retos digitales, el reconocimiento de riesgos en internet y la creación de pequeños proyectos tecnológicos, se busca fortalecer habilidades digitales, pensamiento lógico, creatividad, autonomía y resolución de problemas.<br /></p>
+<p style="text-align: justify;">Esta propuesta, está fundamentada principalmente en el enfoque constructivista de Jean Piaget y apoyada en estrategias de gamificación, promoviendo que los estudiantes sean protagonistas de su propio aprendizaje, mientras el docente cumple un papel de orientador y facilitador.</p>
+<p style="text-align: justify;">De esta manera, el OVA no solo pretende desarrollar competencias tecnológicas, sino también fomentar el uso seguro, crítico y responsable de las herramientas digitales.<br /></p>
+<p style="text-align: justify;">Se espera que la implementación de este recurso contribuya al mejoramiento de los procesos de enseñanza y aprendizaje, respondiendo a las necesidades de los niños y niñas del grado quinto de la Institución Educativa General Santander de Sibate Cundinamarca y fortaleciendo sus competencias digitales con confianza y responsabilidad en la sociedad actual.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795058830000-5s5kt9u02","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El diseño de este OVA permite reconocer que el juego virtual es una estrategia pedagógica que favorece la motivación, la participación y el aprendizaje significativo de los estudiantes, al convertir los contenidos del área de Sistemas en experiencias dinámicas, prácticas e interactivas.</p>\n<p style=\"text-align: justify;\">Mediante actividades como la exploración de los componentes del computador, la resolución de retos digitales, el reconocimiento de riesgos en internet y la creación de pequeños proyectos tecnológicos, se busca fortalecer habilidades digitales, pensamiento lógico, creatividad, autonomía y resolución de problemas.<br /></p>\n<p style=\"text-align: justify;\">Esta propuesta, está fundamentada principalmente en el enfoque constructivista de Jean Piaget y apoyada en estrategias de gamificación, promoviendo que los estudiantes sean protagonistas de su propio aprendizaje, mientras el docente cumple un papel de orientador y facilitador.</p>\n<p style=\"text-align: justify;\">De esta manera, el OVA no solo pretende desarrollar competencias tecnológicas, sino también fomentar el uso seguro, crítico y responsable de las herramientas digitales.<br /></p>\n<p style=\"text-align: justify;\">Se espera que la implementación de este recurso contribuya al mejoramiento de los procesos de enseñanza y aprendizaje, respondiendo a las necesidades de los niños y niñas del grado quinto de la Institución Educativa General Santander de Sibate Cundinamarca y fortaleciendo sus competencias digitales con confianza y responsabilidad en la sociedad actual.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwma484h-0crfom95y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>BIBLIOGRAFIA</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>BIBLIOGRAFIA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>BIBLIOGRAFIA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwma484h-0crfom95y</odePageId>
+      <odeBlockId>block-mwma4pq0-bvq5a0s5k</odeBlockId>
+      <blockName>BIBLIOGRAFIA</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwma484h-0crfom95y</odePageId>
+          <odeBlockId>block-mwma4pq0-bvq5a0s5k</odeBlockId>
+          <odeIdeviceId>idevice-1795015916855-4aipffi06</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> Anderson,L. W., &amp; Krathwohl, D. R. (Eds.). (2001). A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives. Longman. </p>
+<p> Canva. (s. f.). https://www.canva.com/</p>
+<p> Churches, A. (2009) Bloom's digital taxonomy. Eduteka. https://eduteka.icesi.edu.co/pdfdir/churches-blooms-digital-taxonomy-v3_01.pdf </p>
+<p> Educaplay. (s. f.). https://www.educaplay.com </p>
+<p> Genially. (s. f.) https://genially.com/ </p>
+<p> Guan, X., Sun, C., Hwang, G.-J., Xue, K., &amp; Wang, Z. (2024).Applying game-based learning in primary education: A systematic review of journal publications from 2010 to 2020. Interactive Learning Environments, 32(2), 534–556. https://doi.org/10.1080/10494820.2022.2091611 </p>
+<p>Morales-González, B., Edel-Navarro, R., y Aguirre-Aguilar, G. (2014). Modelo ADDIE (análisis, diseño, desarrollo, implementación y evaluación): Su aplicación en ambientes educativos.</p>
+<p> Ministerio de Educación Nacional. (2008).Ser competente en tecnología: ¡Una necesidad para el desarrollo! Orientaciones generales para la educación en tecnología. Guía No. 30. https://www.mineducacion.gov.co/1759/articles-340033_archivo_pdf_Orientaciones_grales_educacion_tecnologia.pdf </p>
+<p>Ministerio de Educación Nacional. (2022).Orientaciones curriculares para el área de Tecnología e Informática en la educación básica y media. </p>
+<p>Piaget, J. (1972). Psicología y pedagogía.</p>
+<p>Scratch Foundation. (s. f.). <a href="https://scratch.mit.edu">https://scratch.mit.edu</a></p>
+<p>Wordwall. (s. f.) <a href="https://wordwall.net/">https://wordwall.net/ </a></p>
+<p>OpenAI(2026). ChatGPT Modelo de Lenguaje de Inteligencia Artificial. <a href="https://chatgpt.com">https://chatgpt.com</a></p>
+<p></p>
+<p> </p>
+<p> </p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795015916855-4aipffi06","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> Anderson,L. W., &amp; Krathwohl, D. R. (Eds.). (2001). A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives. Longman. </p>\n<p> Canva. (s. f.). https://www.canva.com/</p>\n<p> Churches, A. (2009) Bloom's digital taxonomy. Eduteka. https://eduteka.icesi.edu.co/pdfdir/churches-blooms-digital-taxonomy-v3_01.pdf </p>\n<p> Educaplay. (s. f.). https://www.educaplay.com </p>\n<p> Genially. (s. f.) https://genially.com/ </p>\n<p> Guan, X., Sun, C., Hwang, G.-J., Xue, K., &amp; Wang, Z. (2024).Applying game-based learning in primary education: A systematic review of journal publications from 2010 to 2020. Interactive Learning Environments, 32(2), 534–556. https://doi.org/10.1080/10494820.2022.2091611 </p>\n<p>Morales-González, B., Edel-Navarro, R., y Aguirre-Aguilar, G. (2014). Modelo ADDIE (análisis, diseño, desarrollo, implementación y evaluación): Su aplicación en ambientes educativos.</p>\n<p> Ministerio de Educación Nacional. (2008).Ser competente en tecnología: ¡Una necesidad para el desarrollo! Orientaciones generales para la educación en tecnología. Guía No. 30. https://www.mineducacion.gov.co/1759/articles-340033_archivo_pdf_Orientaciones_grales_educacion_tecnologia.pdf </p>\n<p>Ministerio de Educación Nacional. (2022).Orientaciones curriculares para el área de Tecnología e Informática en la educación básica y media. </p>\n<p>Piaget, J. (1972). Psicología y pedagogía.</p>\n<p>Scratch Foundation. (s. f.). <a href=\"https://scratch.mit.edu\">https://scratch.mit.edu</a></p>\n<p>Wordwall. (s. f.) <a href=\"https://wordwall.net/\">https://wordwall.net/ </a></p>\n<p>OpenAI(2026). ChatGPT Modelo de Lenguaje de Inteligencia Artificial. <a href=\"https://chatgpt.com\">https://chatgpt.com</a></p>\n<p></p>\n<p> </p>\n<p> </p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
